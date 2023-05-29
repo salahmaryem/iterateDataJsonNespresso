@@ -1,0 +1,12 @@
+[
+  {
+    "type": "capsule",
+    "name": "Roasted Hazelnut",
+    "quantity": 50
+  },
+  {
+    "type": "machine",
+    "name": "VERTUO NEXT",
+    "quantity": 1
+  }
+]
